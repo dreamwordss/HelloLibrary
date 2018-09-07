@@ -4,7 +4,7 @@
             "outputFile": "/Users/lbl/Desktop/workstase/demo/NetWorkFrame/hellolibrary/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/lbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7ad219fbe28825e21dd8cc3f33e8ab66/res/values-v16/values-v16.xml",
+                    "source": "/Users/lbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ed58de7c619ce7f4ef91ec80620d1782/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/lbl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e697f00558cb22f812304aa377872fa6/res/values-v16/values-v16.xml",
+                    "source": "/Users/lbl/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a9d5017c81620eeb9b69c3a5f08f27f4/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
